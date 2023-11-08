@@ -4,7 +4,7 @@
 **Завдання**: бінарна класифікація текстів (спам vs. не спам)
 **Тренувальні дані**: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 **Класифікатори**: 
-1. [Наїний Баєс](bayes.ipynb) 
+1. [Наївний Баєс](bayes.ipynb) 
 2. [Випадковий ліс](random_forest.ipynb)
 3. [Логістична регресія](logistic_regression.ipynb)
 4. [Секвенційна нейронна мережа + DistilBERT](nn_with_bert.ipynb)
